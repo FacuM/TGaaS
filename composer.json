@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lukasoppermann/http-status": "^2.0"
+    }
+}
